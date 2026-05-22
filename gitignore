@@ -1,0 +1,24 @@
+# Maxfiy ma'lumotlar — GitHubga YUKLANMAYDI
+.env
+
+# Database
+*.db
+
+# Yuklangan fayllar
+files/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Loglar
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
